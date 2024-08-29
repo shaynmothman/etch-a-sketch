@@ -37,6 +37,7 @@ h1 {
     /* padding: 20px; */
     justify-content: center;
     background-image: url("./images/nic-cage.jpg");
+    background-size: contain;
     visibility: hidden;
 }
 
